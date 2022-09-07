@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ChineduVickreg/Microservice_Machine_Learning_Project/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ChineduVickreg/Microservice_Machine_Learning_Project/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ChineduVickreg/Microservice_Machine_Learning_Project/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ChineduVickreg/Microservice_Machine_Learning_Project/tree/master)
 
 ## Project Overview
 
